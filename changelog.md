@@ -8,6 +8,6 @@
 
 * Amend result of `pluralize('permission')` to 'permissions' to counter erronous result from inflection
 
-## Next
+## 0.0.3
 
 * Fix to also pluralize 'Permission' (capital p)
