@@ -12,6 +12,6 @@
 
 * Fix to also pluralize 'Permission' (capital p)
 
-## Next
+## 0.0.4
 
 * Remove pluralization of 'permission' to 'permissions'
