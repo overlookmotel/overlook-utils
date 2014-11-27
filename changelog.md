@@ -4,6 +4,6 @@
 
 * Initial release
 
-## Next
+## 0.0.2
 
 * Amend result of `pluralize('permission')` to 'permissions' to counter erronous result from inflection
