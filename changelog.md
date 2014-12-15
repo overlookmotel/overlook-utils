@@ -19,3 +19,7 @@
 ## 0.0.5
 
 * String to DateTime conversion
+
+## Next
+
+* Fix string to Time & DateTime conversion
