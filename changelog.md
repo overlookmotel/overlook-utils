@@ -15,3 +15,7 @@
 ## 0.0.4
 
 * Remove pluralization of 'permission' to 'permissions'
+
+## Next
+
+* String to DateTime conversion
