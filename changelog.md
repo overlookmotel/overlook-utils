@@ -20,6 +20,6 @@
 
 * String to DateTime conversion
 
-## Next
+## 0.0.6
 
 * Fix string to Time & DateTime conversion
