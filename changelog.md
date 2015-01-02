@@ -30,6 +30,6 @@
 * Import lodash with `runInContext()` to avoid modifying lodash for other modules (fixes issue #1)
 * Remove all trailing whitespace
 
-## Next
+## 0.0.8
 
 * Fix bug in findAndReturn array method
