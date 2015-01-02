@@ -27,4 +27,5 @@
 ## Next
 
 * findAndReturn array method
+* Import lodash with `runInContext()` to avoid modifying lodash for other modules (fixes issue #1)
 * Remove all trailing whitespace
