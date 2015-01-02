@@ -27,3 +27,4 @@
 ## Next
 
 * findAndReturn array method
+* Remove all trailing whitespace
