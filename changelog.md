@@ -23,3 +23,7 @@
 ## 0.0.6
 
 * Fix string to Time & DateTime conversion
+
+## Next
+
+* findAndReturn array method
