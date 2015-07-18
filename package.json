@@ -19,9 +19,9 @@
     "inflection": "^1.7.1"
   },
   "devDependencies": {
-    "mocha": "2.0.x",
-    "chai": "1.9.x",
-    "jshint": "2.5.x"
+    "mocha": "^2.2.4",
+    "chai": "^2.3.0",
+    "jshint": "^2.7.0"
   },
   "keywords": [
   ],

@@ -37,4 +37,5 @@
 ## Next
 
 * Update module dependencies
+* Update dev dependencies
 * Remove `set` method - now provided in lodash
