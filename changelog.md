@@ -34,7 +34,7 @@
 
 * Fix bug in findAndReturn array method
 
-## Next
+## 0.1.0
 
 * Update module dependencies
 * Update dev dependencies
