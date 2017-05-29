@@ -1,5 +1,7 @@
 # overlook-utils
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/overlookmotel/overlook-utils.svg)](https://greenkeeper.io/)
+
 # A collection of utility functions built on top of lodash, used in overlook-framework
 
 ## Current status
